@@ -19,9 +19,8 @@
 
 > 👇 GhostTrack in action:
 <p align="center">
-  <img src="img/demo_1.JPG" width="700" alt="GhostTrack Demo">
-  <img src="img/baner.jpg" width="700" alt="GhostTrack Demo">
-  <img src="img/demo1.JPG" width="700" alt="GhostTrack Demo">
+  <img src="img/demo_1.JPG" alt="GhostTrack Demo">
+
 </p>
 
 ---
@@ -75,7 +74,7 @@ pip install -r requirements.txt
 
 🚀 Quick Start
 
-git clone https://github.com/yourusername/ghosttrack.git
+git clone https://github.com/NexNoir/ghosttrack.git
 cd ghosttrack
 python ghosttrack.py
 
